@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="112" started-at="2019-04-06T14:48:44Z" finished-at="2019-04-06T14:48:44Z">
+  <suite name="Default suite" duration-ms="119" started-at="2019-04-06T16:02:55Z" finished-at="2019-04-06T16:02:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="112" started-at="2019-04-06T14:48:44Z" finished-at="2019-04-06T14:48:44Z">
+    <test name="Default test" duration-ms="119" started-at="2019-04-06T16:02:55Z" finished-at="2019-04-06T16:02:55Z">
       <class name="com.crm.qa.testcases.TempTest">
-        <test-method status="PASS" signature="met1()[pri:0, instance:com.crm.qa.testcases.TempTest@4af044]" name="met1" duration-ms="14" started-at="2019-04-06T20:18:44Z" finished-at="2019-04-06T20:18:44Z">
+        <test-method status="PASS" signature="met1()[pri:0, instance:com.crm.qa.testcases.TempTest@4af044]" name="met1" duration-ms="16" started-at="2019-04-06T21:32:55Z" finished-at="2019-04-06T21:32:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- met1 -->
