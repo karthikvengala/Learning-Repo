@@ -42,11 +42,18 @@ public class LoginPageTest extends TestBase{
 	
 	
 	
-	@AfterMethod
+	/*@AfterMethod
 	public void tearDown(){
 		driver.quit();
-	}
+	}*/
 	
+	@AfterMethod
+	public void tearDown()
+	{
+		driver.quit();
+		System.out.println("Quitting Driver object.");
+		System.out.println("Test Completed!! BYE BYE....");
+	}
 	
 	
 	
