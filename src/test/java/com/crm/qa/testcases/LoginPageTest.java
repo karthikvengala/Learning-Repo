@@ -53,6 +53,7 @@ public class LoginPageTest extends TestBase{
 		driver.quit();
 		System.out.println("Quitting Driver object.");
 		System.out.println("Test Completed!! BYE BYE....");
+		System.out.println("This test is cool!");
 	}
 	
 	
