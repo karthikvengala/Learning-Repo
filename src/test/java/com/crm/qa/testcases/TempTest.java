@@ -12,6 +12,7 @@ public class TempTest {
 			System.out.println(i);
 		}
 		System.out.println("Done!");
+		System.out.println("Get lost!");
 	}
 
 }
